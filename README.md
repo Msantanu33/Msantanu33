@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santanu Kumar Mishra</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0b3Q-FjRVALtnbE6Kdg2RZ&ust=1730457183317000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiE0sq1uIkDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msantanu33&label=Profile%20views&color=0e75b6&style=flat" alt="msantanu33" /> </p>
 
