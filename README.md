@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/msantanu33" target="blank"><img src="https://img.shields.io/twitter/follow/msantanu33?logo=twitter&style=for-the-badge" alt="msantanu33" /></a> </p>
 
-- 🌱 I’m currently learning **MCA**
+- 🌱 I’m currently learning **FULL-STACK**
 
-- 💬 Ask me about **JS/HTML5/CSS**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **msantanukumar33@gmail.com**
 
-- ⚡ Fun fact **I am atheist...**
+- ⚡ Fun fact **Paradoxical...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
